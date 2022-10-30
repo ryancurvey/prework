@@ -1,19 +1,19 @@
 # Prework Study Guide Webpage
 
 ## Description
-- To learn the basics of HTML, CSS, and JavaScript to produce a working study guide
-- This was built to better prepare myself for the upcoming bootcamp
-- This study guide will serve as an easily accessible guide for students
-- This project helped create a basic understanding of HTML, CSS, and JavaScript
+- To learn the basics of HTML, CSS, and JavaScript to produce a working study guide. This was built to better prepare myself for the upcoming bootcamp. This study guide will serve as an easily accessible guide for students. This project helped create a basic understanding of HTML, CSS, and JavaScript
 
 ## Installation
-"N/A"
+
+N/A
 
 ## Usage
+
 This study guide is designed to be used as a jumping off point for a new student learning HTML, CSS, JavaScript, and Git. Each section has additional information on each specific topic. It will also help students select whith topic to dive into first.
 
 ## Credits
-"N/A"
+
+N/A
 
 ## License
 
