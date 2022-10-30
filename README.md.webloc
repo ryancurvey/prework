@@ -1,8 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://github.com/ryancurvey/prework/blob/main/README.md</string>
-</dict>
-</plist>
+# Prework Study Guide Webpage
+
+## Description
+- To learn the basics of HTML, CSS, and JavaScript to produce a working study guide
+- This was built to better prepare myself for the upcoming bootcamp
+- This study guide will serve as an easily accessible guide for students
+- This project helped create a basic understanding of HTML, CSS, and JavaScript
+
+## Installation
+"N/A"
+
+## Usage
+This study guide is designed to be used as a jumping off point for a new student learning HTML, CSS, JavaScript, and Git. Each section has additional information on each specific topic. It will also help students select whith topic to dive into first.
+
+## Credits
+"N/A"
+
+## License
+
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
+---
+
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+
+Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
+## Features
+
+If your project has a lot of features, list them here.
+
+## How to Contribute
+
+If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+## Tests
+
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.
